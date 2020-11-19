@@ -1,0 +1,5 @@
+# Python Port Scanner
+## This port scanner will analyze a network for vulnerabilities. It generates a list of all the TCP Open ports within the range of 1 to 1025 and if open, creates a file and adds an entry for that port number. Date and time is recorded.
+
+
+ 
